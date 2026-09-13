@@ -6,7 +6,7 @@ Trabajo final - Curso de Ciencia de Datos
 - `scripts/01_eda_estadistica.py` — análisis exploratorio y tests estadísticos
 - `scripts/02_multivariado.py` — análisis de correspondencias (CA)
 - `figuras/` — gráficos generados
-- `data/` — base de datos original (SAT-HD-BU.xlsx)
+- `data/` — base de datos original (HomicidiosDolosos.xlsx)
 
 ## Cómo correr
 pip install -r requirements.txt
