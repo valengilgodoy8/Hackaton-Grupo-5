@@ -1,5 +1,5 @@
 # Análisis de homicidios dolosos y proxy de femicidio en Argentina
-Trabajo final - Curso de Ciencia de Datos
+Trabajo final - Diplomatura de Ciencia de Datos (Mundos E)
 
 ## Estructura
 - script 1 — carga y construcción del proxy + análisis exploratorio y tests estadísticos
