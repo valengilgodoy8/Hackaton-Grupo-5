@@ -1,9 +1,10 @@
 # Análisis de homicidios dolosos y proxy de femicidio en Argentina
 Trabajo final - Diplomatura de Ciencia de Datos (Mundos E)
 
-## Estructura
-- script 1 — carga y construcción del proxy + análisis exploratorio y tests estadísticos
-- script 2 - modelo de clusters y contraste de observaciones
+# Estructura del repositorio
+- Base de datos de acceso abierto desde el Ministerio de Seguridad de la Nación (Homicidios dolosos.xlsx)
+- Script de análisis
+- Figuras relevantes
 
 
 
